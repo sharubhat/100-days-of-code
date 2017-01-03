@@ -16,3 +16,11 @@
 
 **Link to work:** [PathFinding.java](https://github.com/sharubhat/piij-cci/blob/master/src/main/java/com/piij/cci/topcoder/graphs/bfs/PathFinding.java)
 
+### Day 3: Jan 2, 2017
+
+**Today's Progress**: Tried solving Topcoder porblem on [Escape](https://community.topcoder.com/tc?module=ProblemDetail&rd=4371&pm=1170). 2 out of 86 test cases are failing. Will try fixing it tomorrow.
+
+**Thoughts:** Problem seemed easy on the first read but ended up misunderstanding the requirement and struggling quite a bit. Have spent over 3 hours on this one. Eventually fixing most of the issues caused by misunderstanding. There is no solution available on TC to compare, so decided to run all available test cases. 2/86 are failing. It's not going to be easy debugging. Will be resuming tomorrow.
+
+**Link to work:** Will check in tomorrow if I manage to fix the code.
+
