@@ -1,5 +1,8 @@
 # I've joined the #100DaysOfCode Challenge.
 
+## Note:
+This is my fork. I intend to keep rest of this README as is to give credits to Alexander Kallaway who originally created it.
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
