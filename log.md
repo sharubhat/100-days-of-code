@@ -24,3 +24,11 @@
 
 **Link to work:** Will check in tomorrow if I manage to fix the code.
 
+### Day 4: Jan 3, 2017
+
+**Today's Progress**: Solved [Escape](https://community.topcoder.com/tc?module=ProblemDetail&rd=4371&pm=1170). All test cases are now passing. Moving on to next problem.
+
+**Thoughts:** Need to solve more graph problems to get better at them.
+
+**Link to work:** [Escape.java](https://github.com/sharubhat/piij-cci/blob/master/src/main/java/com/piij/cci/topcoder/graphs/bfs/Escape.java)
+
