@@ -40,3 +40,11 @@
 
 **Link to work:** Nothing yet.
 
+### Day 6: Jan 7, 2017
+
+**Today's Progress**: Solved [RoboCourier](http://community.topcoder.com/tc?module=ProblemDetail&rd=4555&pm=1749) using Dijkstra's shortest path technique.
+
+**Thoughts:** It's important to visualise the graph before attempting to solve the problem. This problem is tricky in terms of movement that robot can make within the grid. 
+
+**Link to work:** [RoboCourier.java](https://github.com/sharubhat/piij-cci/blob/master/src/main/java/com/piij/cci/topcoder/graphs/dijkstra/robocourier/RoboCourier.java)
+
