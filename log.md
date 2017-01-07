@@ -32,3 +32,11 @@
 
 **Link to work:** [Escape.java](https://github.com/sharubhat/piij-cci/blob/master/src/main/java/com/piij/cci/topcoder/graphs/bfs/Escape.java)
 
+### Day 5: Jan 6, 2017
+
+**Today's Progress**:Trying to solve Dijkstra's problems from topcoder. Couldn't comeplte.
+
+**Thoughts:** Simple concept but finding it very hard to understand and then translate understanding to code.
+
+**Link to work:** Nothing yet.
+
