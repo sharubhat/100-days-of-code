@@ -42,9 +42,10 @@
 
 ### Day 6: Jan 7, 2017
 
-**Today's Progress**: Solved [RoboCourier](http://community.topcoder.com/tc?module=ProblemDetail&rd=4555&pm=1749) using Dijkstra's shortest path technique.
+**Today's Progress**: Solved [RoboCourier](http://community.topcoder.com/tc?module=ProblemDetail&rd=4555&pm=1749) using Dijkstra's shortest path technique. Also solved [TeamBuilder](http://community.topcoder.com/tc?module=ProblemDetail&rd=4740&pm=2356) based on Floyd-Warshall algorithm.
 
 **Thoughts:** It's important to visualise the graph before attempting to solve the problem. This problem is tricky in terms of movement that robot can make within the grid. 
 
-**Link to work:** [RoboCourier.java](https://github.com/sharubhat/piij-cci/blob/master/src/main/java/com/piij/cci/topcoder/graphs/dijkstra/robocourier/RoboCourier.java)
+**Link to work:** [RoboCourier.java](https://github.com/sharubhat/piij-cci/blob/master/src/main/java/com/piij/cci/topcoder/graphs/dijkstra/robocourier/RoboCourier.java), 
+[TeamBuilder.java](https://github.com/sharubhat/piij-cci/blob/master/src/main/java/com/piij/cci/topcoder/graphs/floyd/warshall/TeamBuilder.java)
 
