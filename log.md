@@ -49,13 +49,21 @@
 **Link to work:** [RoboCourier.java](https://github.com/sharubhat/piij-cci/blob/master/src/main/java/com/piij/cci/topcoder/graphs/dijkstra/robocourier/RoboCourier.java), 
 [TeamBuilder.java](https://github.com/sharubhat/piij-cci/blob/master/src/main/java/com/piij/cci/topcoder/graphs/floyd/warshall/TeamBuilder.java)
 
-### Day 7: Jan 14, 2017
+### Day 7: Jan 10, 2017
+
+**Today's Progress**: Mostly learning, not much coding.
+
+### Day 8: Jan 11, 2017
+
+**Today's Progress**: Learnt minimum spanning trees. I need to get back to graphs after a few days.
+
+### Day 9: Jan 14, 2017
 
 **Today's Progress**: Brushing up java 8 features - mostly lambda expressions and functions.
 
 **Thoughts:** Feels like refreshing Scala :) 
 
-### Day 8: Jan 15, 2017
+### Day 10: Jan 15, 2017
 
 **Today's Progress**: Continuing with java8 Streams.
 
