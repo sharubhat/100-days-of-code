@@ -67,3 +67,6 @@
 
 **Today's Progress**: Continuing with java8 Streams.
 
+### Day 11: Feb 21, 2017
+
+**Today's Progress**: Missed updating for several days. Working through Coursera course on Machine Learning.
