@@ -70,3 +70,9 @@
 ### Day 11: Feb 21, 2017
 
 **Today's Progress**: Missed updating for several days. Working through Coursera course on Machine Learning.
+
+### Day 12: Feb 22, 2007
+
+**Today's Progress**: Started with MOOC Learning From Data. 
+
+**Thoughts:** It appears to be more suitable for beginner like me than Coursera course which is a bit more technical. Will be reviewing each chapter at least once after first watch.
